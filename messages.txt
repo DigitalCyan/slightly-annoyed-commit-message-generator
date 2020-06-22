@@ -7,6 +7,8 @@ added hal_9000.c
 added nsfw ascii art
 added a bit that executes "alias nano=vim"
 added dlc
+added denuvo
+added directplay
 replaced main.js with a 1.9 TDI
 replaced class instantiation with class mythosis
 replaced all semicolons with greek questionmarks
