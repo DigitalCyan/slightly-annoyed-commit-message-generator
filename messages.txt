@@ -1,0 +1,17 @@
+added some hiv tester functions
+added shodan.c
+added glados.c
+added some kernel corruptors
+added some cyber aids
+added hal_9000.c
+added nsfw ascii art
+added a bit that executes "alias nano=vim"
+added dlc
+replaced main.js with a 1.9 TDI
+replaced class instantiation with calss mythosis
+replaced all semicolons with greek questionmarks
+replaced tire vent caps
+impregnated some binaries
+switched to MD5 pass hashing
+changed the air filter
+ERROR failed to fetch from valve_funny_code_comments.txt
