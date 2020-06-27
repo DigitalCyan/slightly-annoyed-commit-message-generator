@@ -16,6 +16,7 @@ div {
 
 body div,
 div div {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #555;
+  width: 50%;
 }
 /*# sourceMappingURL=index.css.map */
