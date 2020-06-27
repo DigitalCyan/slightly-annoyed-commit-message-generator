@@ -1,19 +1,20 @@
 added some hiv tester functions
-added shodan.c
-added glados.c
 added some kernel corruptors
 added some cyber aids
-added hal_9000.c
 added nsfw ascii art
-added a bit that executes "alias nano=vim"
+added a few rootkits
 added dlc
 added denuvo
-added directplay
-replaced main.js with a 1.9 TDI
+added more infinite loop cases
+added more malware to package.json dependencies
+replaced main js file with a 1.9 TDI
 replaced class instantiation with class mythosis
 replaced all semicolons with greek questionmarks
 replaced tire vent caps
 impregnated some binaries
-switched to MD5 pass hashing
+impregnated node_modules for increased file size
 changed the air filter
-ERROR failed to fetch from valve_funny_code_comments.txt
+changed the oil filter
+increased the LOC (lines of coke) per day
+removed herobrine
+git push --force origin master
